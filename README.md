@@ -1,6 +1,6 @@
 # CodeAlpha_Basic_Network_Sniffer
 
-TO use this basic network sniffer using python you don't need to install any additional python liibraries in your system, you just need to make sure that
+To use this basic network sniffer using python you don't need to install any additional python liibraries in your system, you just need to make sure that
   - You are using the linux system cause the some of the functions of the socket library of python doesn;t work well with windorws and
   - You have python 3 installed in you computer system
 
